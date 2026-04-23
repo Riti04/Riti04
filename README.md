@@ -1,6 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,40:0a2a4a,100:0d4f8c&height=220&section=header&text=Riti%20Kant%20Juhi&fontSize=62&fontColor=38bdf8&animation=fadeIn&fontAlignY=60&fontAlign=30&desc=AI%20%2F%20ML%20%7C%20Android%20%7C%20Research&descAlignY=78&descAlign=30&descSize=17&descColor=7dd3fc&stroke=0284c7&strokeWidth=1.5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,40:0a2a4a,100:0d4f8c&height=220&section=header&text=Riti%20Kant%20Juhi&fontSize=62&fontColor=38bdf8&animation=fadeIn&fontAlignY=60&fontAlign=30&desc=AI%20%2F%20ML%20%7C%20Android%20%7C%20Research&descAlignY=78&descAlign=30&descSize=17&descColor=7dd3fc"/>
 <br/>
-
 
 
 ### `> whoami`
