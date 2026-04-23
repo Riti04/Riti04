@@ -1,5 +1,4 @@
-<<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:0f0a1e,100:1a0533&height=200&section=header&text=Riti%20Kant%20Juhi&fontSize=65&fontColor=d8b4fe&animation=fadeIn&fontAlignY=65&fontAlign=28&desc=AI%20%2F%20ML%20%7C%20Android%20%7C%20Research&descAlignY=82&descAlign=28&descSize=16&descColor=a78bfa&stroke=6d28d9&strokeWidth=2"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,40:0a2a4a,100:0d4f8c&height=220&section=header&text=Riti%20Kant%20Juhi&fontSize=62&fontColor=38bdf8&animation=fadeIn&fontAlignY=60&fontAlign=30&desc=AI%20%2F%20ML%20%7C%20Android%20%7C%20Research&descAlignY=78&descAlign=30&descSize=17&descColor=7dd3fc&stroke=0284c7&strokeWidth=1.5"/>
 <br/>
 
 
@@ -133,20 +132,29 @@ ongoing   ──  300+ DSA problems solved — LeetCode & GFG
 
 ---
 
-## ⬡ Analytics
+## ◈ Analytics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riti04&layout=donut&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=8b949e&hide=jupyter%20notebook"/>
-&nbsp;&nbsp;
-<img height="160" src="https://streak-stats.demolab.com?user=Riti04&hide_border=true&background=0d1117&stroke=2d1b69&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=8b949e&dates=484f58&currStreakNum=e9d5ff&sideNums=c4b5fd"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Riti04&show_icons=true&count_private=true&hide_border=true&bg_color=020c1b&title_color=5b9bd5&text_color=8aaccc&icon_color=4a7fa8&cache_seconds=1800"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riti04&layout=donut&langs_count=8&hide_border=true&bg_color=020c1b&title_color=5b9bd5&text_color=8aaccc&hide=jupyter%20notebook&cache_seconds=1800"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Riti04&hide_border=true&background=020c1b&stroke=1e3a52&ring=4a7fa8&fire=3a6a94&currStreakLabel=5b9bd5&sideLabels=6a90b0&dates=4a6a84&currStreakNum=8aaccc&sideNums=8aaccc"/>
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:2d1b69,100:0d1117&height=100&section=footer&reversal=true&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d4f8c,50:0a2a4a,100:020c1b&height=110&section=footer&reversal=false&animation=fadeIn"/>
 
 <div align="center">
 <sub>✦ &nbsp; <i>"Building at the intersection of AI, health, and mobile."</i> &nbsp; ✦</sub>
 </div>
+
